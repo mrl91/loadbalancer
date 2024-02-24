@@ -20,8 +20,8 @@ Prérequis :
 Clonez le dépôt sur votre système local :
 
 ```sh
-git clone https://github.com/VotreGitHub/rust-load-balancer.git
-cd rust-load-balancer
+git clone https://github.com/mrl91/loadbalancer.git
+cd loadbalancer
 ```
 
 ## ⚙️ Configuration
