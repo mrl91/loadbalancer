@@ -73,7 +73,6 @@ Une fois lancé, le Load Balancer commencera à écouter sur le port spécifié 
 
 ## ✨ Fonctionnalités
 
-- **Répartition de charge** : Distribue les requêtes entrantes de manière équilibrée entre les serveurs en amont.
+- **Répartition de charge** : Distribue les requêtes entrantes de manière équilibrée entre les serveurs.
 - **Limitation du débit** : Prévient la surcharge des serveurs avec une politique de limitation de débit configurable.
-- **Vérification de l'état de santé** : Vérifie régulièrement la disponibilité des serveurs en amont pour assurer une distribution fiable.
- 
+- **Vérification de l'état de santé** : Vérifie régulièrement la disponibilité des serveurs pour assurer une distribution fiable.
