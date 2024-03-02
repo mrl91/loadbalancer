@@ -4,7 +4,7 @@ Ce projet est une implémentation d'un Load Balancer en Rust, conçu pour répar
 
 # ⚠️ Disclaimer
 
-**Le Rust Load Balancer est développé avec l'intention d'être utilisé dans des scénarios légitimes et contrôlés, tels que les laboratoires de test, les environnements de développement ou avec le consentement explicite des cibles. Ce projet NE doit PAS être utilisé à des fins malveillantes ou dans tout contexte qui pourrait entraîner un accès non autorisé à des systèmes informatiques. Les auteurs déclinent toute responsabilité pour l'usage impropre de cet outil. En utilisant ce logiciel, vous acceptez de le faire à VOS PROPRES RISQUES.**
+**Le Rust Load Balancer est développé avec l'intention d'être utilisé dans des scénarios légitimes et contrôlés, tels que les laboratoires de test, les environnements de développement ou avec le consentement explicite des cibles. Ce projet NE doit PAS être utilisé à des fins malveillantes ou dans tout contexte qui pourrait entraîner un accès non autorisé à des systèmes informatiques. L'auteur décline toute responsabilité pour l'usage impropre de cet outil. En utilisant ce logiciel, vous acceptez de le faire à VOS PROPRES RISQUES.**
 
 ## 👥 Auteur
 
